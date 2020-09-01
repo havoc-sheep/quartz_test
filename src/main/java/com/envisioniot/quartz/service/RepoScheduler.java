@@ -5,4 +5,8 @@ package com.envisioniot.quartz.service;
  * @date 2020/8/31
  */
 public class RepoScheduler {
+
+    public void addJob(String jName, String gName){
+
+    }
 }
